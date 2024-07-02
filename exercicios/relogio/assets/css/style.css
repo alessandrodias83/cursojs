@@ -56,59 +56,10 @@ form button {
 form button:hover {
   background: var(--primary-color-darker);
 }
-
 .relogio {
-  font-size: 5rem;
-  text-align: center;
+  font-size: 3em;
 }
 
 .pausado {
   color: red;
-}
-
-.iniciado {
-  color: rgb(12, 30, 107);
-}
-
-.iniciar {
-  background: rgb(9, 48, 56);
-  color: #fff;
-  width: 90px;
-  padding: 10px;
-  margin: 10px;
-  border-radius: 20px;
-  font-size: 20px;
-  border: none;
-}
-
-.iniciar:hover {
-  background-color: rgb(45, 111, 124);
-}
-
-.pausar {
-  background: rgb(9, 48, 56);
-  color: #fff;
-  width: 90px;
-  padding: 10px;
-  margin: 10px;
-  border-radius: 20px;
-  font-size: 20px;
-  border: none;
-}
-.pausar:hover {
-  background-color: rgb(45, 111, 124);
-}
-.zerar {
-  background: rgb(9, 48, 56);
-  color: #fff;
-  width: 90px;
-  padding: 10px;
-  margin: 10px;
-  border-radius: 20px;
-  font-size: 20px;
-  border: none;
-}
-
-.zerar:hover {
-  background-color: rgb(45, 111, 124);
 }
